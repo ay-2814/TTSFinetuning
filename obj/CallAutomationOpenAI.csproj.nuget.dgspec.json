@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/CallAutomationOpenAI.csproj": {}
+  },
+  "projects": {
+    "/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/CallAutomationOpenAI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/CallAutomationOpenAI.csproj",
+        "projectName": "CallAutomationOpenAI",
+        "projectPath": "/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/CallAutomationOpenAI.csproj",
+        "packagesPath": "/Users/ayushmansrivastava/.nuget/packages/",
+        "outputPath": "/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ayushmansrivastava/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Azure.AI.OpenAI": {
+              "target": "Package",
+              "version": "[1.0.0-beta.5, )"
+            },
+            "Azure.AI.Translation.Text": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Azure.Communication.CallAutomation": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Azure.Communication.Email": {
+              "target": "Package",
+              "version": "[1.1.0-beta.1, )"
+            },
+            "Azure.Communication.Identity": {
+              "target": "Package",
+              "version": "[1.0.0-beta.4, )"
+            },
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.12.1, )"
+            },
+            "Azure.Messaging.EventGrid": {
+              "target": "Package",
+              "version": "[4.13.0, )"
+            },
+            "CliWrap": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "Microsoft.DevTunnels.Connections": {
+              "target": "Package",
+              "version": "[1.0.7393, )"
+            },
+            "Microsoft.DevTunnels.Contracts": {
+              "target": "Package",
+              "version": "[1.0.7393, )"
+            },
+            "Microsoft.DevTunnels.Management": {
+              "target": "Package",
+              "version": "[1.0.7393, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

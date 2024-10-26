@@ -1,0 +1,474 @@
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/appsettings.Development.json
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/appsettings.json
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/CallAutomationOpenAI.exe
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/CallAutomationOpenAI.deps.json
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/CallAutomationOpenAI.runtimeconfig.json
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/CallAutomationOpenAI.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/CallAutomationOpenAI.pdb
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Azure.AI.OpenAI.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Communication.CallAutomation.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Communication.Common.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Communication.Identity.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Core.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Messaging.EventGrid.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/CliWrap.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.DevTunnels.Connections.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.DevTunnels.Contracts.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.DevTunnels.Management.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.DevTunnels.Ssh.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.DevTunnels.Ssh.Tcp.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.VisualStudio.Validation.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Newtonsoft.Json.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/System.Memory.Data.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/cs/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/de/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/es/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/fr/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/it/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/ja/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/ko/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/pl/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/ru/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/tr/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.csproj.AssemblyReference.cache
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.GeneratedMSBuildEditorConfig.editorconfig
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.AssemblyInfoInputs.cache
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.AssemblyInfo.cs
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.csproj.CoreCompileInputs.cache
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.MvcApplicationPartsAssemblyInfo.cs
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.MvcApplicationPartsAssemblyInfo.cache
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets/msbuild.CallAutomationOpenAI.Microsoft.AspNetCore.StaticWebAssets.props
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets/msbuild.build.CallAutomationOpenAI.props
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.CallAutomationOpenAI.props
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.CallAutomationOpenAI.props
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets.pack.json
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets.build.json
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets.development.json
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/scopedcss/bundle/CallAutomationOpenAI.styles.css
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.csproj.CopyComplete
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/refint/CallAutomationOpenAI.dll
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.pdb
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.genruntimeconfig.cache
+C:/src/AzureCalling/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/ref/CallAutomationOpenAI.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.csproj.AssemblyReference.cache
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.GeneratedMSBuildEditorConfig.editorconfig
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.AssemblyInfoInputs.cache
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.AssemblyInfo.cs
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.csproj.CoreCompileInputs.cache
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.MvcApplicationPartsAssemblyInfo.cs
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.MvcApplicationPartsAssemblyInfo.cache
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/refint/CallAutomationOpenAI.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.pdb
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/appsettings.Development.json
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/appsettings.json
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/CallAutomationOpenAI.exe
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/CallAutomationOpenAI.deps.json
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/CallAutomationOpenAI.runtimeconfig.json
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/CallAutomationOpenAI.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/CallAutomationOpenAI.pdb
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Azure.AI.OpenAI.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Communication.CallAutomation.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Communication.Common.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Communication.Identity.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Core.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Messaging.EventGrid.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/CliWrap.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.DevTunnels.Connections.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.DevTunnels.Contracts.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.DevTunnels.Management.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.DevTunnels.Ssh.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.DevTunnels.Ssh.Tcp.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.VisualStudio.Validation.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Newtonsoft.Json.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/System.Memory.Data.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/cs/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/de/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/es/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/fr/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/it/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/ja/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/ko/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/pl/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/ru/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/tr/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets/msbuild.CallAutomationOpenAI.Microsoft.AspNetCore.StaticWebAssets.props
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets/msbuild.build.CallAutomationOpenAI.props
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.CallAutomationOpenAI.props
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.CallAutomationOpenAI.props
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets.pack.json
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets.build.json
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets.development.json
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/scopedcss/bundle/CallAutomationOpenAI.styles.css
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.csproj.CopyComplete
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.genruntimeconfig.cache
+C:/src/callautomation-openai-sample-csharp/CallAutomationOpenAI/obj/Debug/net7.0/ref/CallAutomationOpenAI.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/appsettings.Development.json
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/appsettings.json
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/CallAutomationOpenAI.exe
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/CallAutomationOpenAI.deps.json
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/CallAutomationOpenAI.runtimeconfig.json
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/CallAutomationOpenAI.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/CallAutomationOpenAI.pdb
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.AI.OpenAI.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Communication.CallAutomation.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Communication.Common.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Communication.Identity.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Core.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Messaging.EventGrid.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/CliWrap.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.DevTunnels.Connections.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.DevTunnels.Contracts.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.DevTunnels.Management.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.DevTunnels.Ssh.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.DevTunnels.Ssh.Tcp.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.VisualStudio.Validation.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Newtonsoft.Json.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/System.Memory.Data.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/cs/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/de/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/es/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/fr/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/it/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/ja/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/ko/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/pl/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/ru/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/tr/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.csproj.AssemblyReference.cache
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.GeneratedMSBuildEditorConfig.editorconfig
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.AssemblyInfoInputs.cache
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.AssemblyInfo.cs
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.csproj.CoreCompileInputs.cache
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.MvcApplicationPartsAssemblyInfo.cs
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.MvcApplicationPartsAssemblyInfo.cache
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets/msbuild.CallAutomationOpenAI.Microsoft.AspNetCore.StaticWebAssets.props
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets/msbuild.build.CallAutomationOpenAI.props
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.CallAutomationOpenAI.props
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.CallAutomationOpenAI.props
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets.pack.json
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets.build.json
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets.development.json
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/obj/Debug/net7.0/scopedcss/bundle/CallAutomationOpenAI.styles.css
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.csproj.CopyComplete
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/obj/Debug/net7.0/refint/CallAutomationOpenAI.dll
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.pdb
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.genruntimeconfig.cache
+C:/src/callautomation-openai-sample-csharp/Dev/CallAutomationOpenAI/obj/Debug/net7.0/ref/CallAutomationOpenAI.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/appsettings.Development.json
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/appsettings.json
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/CallAutomationOpenAI.exe
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/CallAutomationOpenAI.deps.json
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/CallAutomationOpenAI.runtimeconfig.json
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/CallAutomationOpenAI.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/CallAutomationOpenAI.pdb
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.AI.OpenAI.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Communication.CallAutomation.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Communication.Common.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Communication.Identity.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Core.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Messaging.EventGrid.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/CliWrap.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.DevTunnels.Connections.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.DevTunnels.Contracts.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.DevTunnels.Management.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.DevTunnels.Ssh.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.DevTunnels.Ssh.Tcp.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.VisualStudio.Validation.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Newtonsoft.Json.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/System.Memory.Data.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/cs/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/de/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/es/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/fr/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/it/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/ja/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/ko/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/pl/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/ru/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/tr/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.csproj.AssemblyReference.cache
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.GeneratedMSBuildEditorConfig.editorconfig
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.AssemblyInfoInputs.cache
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.AssemblyInfo.cs
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.csproj.CoreCompileInputs.cache
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.MvcApplicationPartsAssemblyInfo.cs
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.MvcApplicationPartsAssemblyInfo.cache
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets/msbuild.CallAutomationOpenAI.Microsoft.AspNetCore.StaticWebAssets.props
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets/msbuild.build.CallAutomationOpenAI.props
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.CallAutomationOpenAI.props
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.CallAutomationOpenAI.props
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets.pack.json
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets.build.json
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets.development.json
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/scopedcss/bundle/CallAutomationOpenAI.styles.css
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.csproj.CopyComplete
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/refint/CallAutomationOpenAI.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.pdb
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.genruntimeconfig.cache
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/ref/CallAutomationOpenAI.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Communication.Email.dll
+C:/src/callautomation personal use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/System.ClientModel.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.csproj.AssemblyReference.cache
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.GeneratedMSBuildEditorConfig.editorconfig
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.AssemblyInfoInputs.cache
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.AssemblyInfo.cs
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.csproj.CoreCompileInputs.cache
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.MvcApplicationPartsAssemblyInfo.cs
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.MvcApplicationPartsAssemblyInfo.cache
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/refint/CallAutomationOpenAI.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.pdb
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/appsettings.Development.json
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/appsettings.json
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/CallAutomationOpenAI.exe
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/CallAutomationOpenAI.deps.json
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/CallAutomationOpenAI.runtimeconfig.json
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/CallAutomationOpenAI.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/CallAutomationOpenAI.pdb
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.AI.OpenAI.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Communication.CallAutomation.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Communication.Common.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Communication.Email.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Communication.Identity.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Core.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Messaging.EventGrid.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/CliWrap.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.DevTunnels.Connections.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.DevTunnels.Contracts.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.DevTunnels.Management.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.DevTunnels.Ssh.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.DevTunnels.Ssh.Tcp.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.VisualStudio.Validation.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Newtonsoft.Json.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/System.ClientModel.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/System.Memory.Data.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/cs/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/de/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/es/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/fr/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/it/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/ja/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/ko/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/pl/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/ru/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/tr/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets/msbuild.CallAutomationOpenAI.Microsoft.AspNetCore.StaticWebAssets.props
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets/msbuild.build.CallAutomationOpenAI.props
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.CallAutomationOpenAI.props
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.CallAutomationOpenAI.props
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets.pack.json
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets.build.json
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets.development.json
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/scopedcss/bundle/CallAutomationOpenAI.styles.css
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.csproj.CopyComplete
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.genruntimeconfig.cache
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/ref/CallAutomationOpenAI.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Binder.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.AI.Translation.Text.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Identity.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/src/callautomation dev use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/appsettings.Development.json
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/appsettings.json
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/CallAutomationOpenAI.exe
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/CallAutomationOpenAI.deps.json
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/CallAutomationOpenAI.runtimeconfig.json
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/CallAutomationOpenAI.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/CallAutomationOpenAI.pdb
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.AI.OpenAI.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.AI.Translation.Text.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Communication.CallAutomation.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Communication.Common.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Communication.Email.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Communication.Identity.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Core.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Identity.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Messaging.EventGrid.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/CliWrap.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.DevTunnels.Connections.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.DevTunnels.Contracts.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.DevTunnels.Management.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.DevTunnels.Ssh.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.DevTunnels.Ssh.Tcp.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Binder.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.VisualStudio.Validation.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Newtonsoft.Json.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/System.ClientModel.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/System.Memory.Data.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/cs/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/de/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/es/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/fr/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/it/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/ja/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/ko/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/pl/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/ru/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/tr/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.Validation.resources.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.csproj.AssemblyReference.cache
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.GeneratedMSBuildEditorConfig.editorconfig
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.AssemblyInfoInputs.cache
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.AssemblyInfo.cs
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.csproj.CoreCompileInputs.cache
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.MvcApplicationPartsAssemblyInfo.cs
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.MvcApplicationPartsAssemblyInfo.cache
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets/msbuild.CallAutomationOpenAI.Microsoft.AspNetCore.StaticWebAssets.props
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets/msbuild.build.CallAutomationOpenAI.props
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.CallAutomationOpenAI.props
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.CallAutomationOpenAI.props
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets.pack.json
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets.build.json
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets.development.json
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/scopedcss/bundle/CallAutomationOpenAI.styles.css
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.csproj.CopyComplete
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/refint/CallAutomationOpenAI.dll
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.pdb
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.genruntimeconfig.cache
+C:/src/callautomation rishi use/Dev/CallAutomationOpenAI/obj/Debug/net7.0/ref/CallAutomationOpenAI.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.csproj.AssemblyReference.cache
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.AssemblyInfoInputs.cache
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.AssemblyInfo.cs
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.csproj.CoreCompileInputs.cache
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.MvcApplicationPartsAssemblyInfo.cs
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.MvcApplicationPartsAssemblyInfo.cache
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/obj/Debug/net7.0/refint/CallAutomationOpenAI.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.pdb
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/appsettings.Development.json
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/appsettings.json
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/CallAutomationOpenAI
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/CallAutomationOpenAI.deps.json
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/CallAutomationOpenAI.runtimeconfig.json
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/CallAutomationOpenAI.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/CallAutomationOpenAI.pdb
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.AI.OpenAI.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.AI.Translation.Text.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Communication.CallAutomation.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Communication.Common.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Communication.Email.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Communication.Identity.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Core.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Identity.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Azure.Messaging.EventGrid.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/CliWrap.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.DevTunnels.Connections.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.DevTunnels.Contracts.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.DevTunnels.Management.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.DevTunnels.Ssh.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.DevTunnels.Ssh.Tcp.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Microsoft.VisualStudio.Validation.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/System.ClientModel.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/cs/Microsoft.VisualStudio.Validation.resources.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/de/Microsoft.VisualStudio.Validation.resources.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/es/Microsoft.VisualStudio.Validation.resources.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/fr/Microsoft.VisualStudio.Validation.resources.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/it/Microsoft.VisualStudio.Validation.resources.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/ja/Microsoft.VisualStudio.Validation.resources.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/ko/Microsoft.VisualStudio.Validation.resources.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/pl/Microsoft.VisualStudio.Validation.resources.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.Validation.resources.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/ru/Microsoft.VisualStudio.Validation.resources.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/tr/Microsoft.VisualStudio.Validation.resources.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.Validation.resources.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.Validation.resources.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets/msbuild.CallAutomationOpenAI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets/msbuild.build.CallAutomationOpenAI.props
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.CallAutomationOpenAI.props
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.CallAutomationOpenAI.props
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets.build.json
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/obj/Debug/net7.0/staticwebassets.development.json
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/obj/Debug/net7.0/scopedcss/bundle/CallAutomationOpenAI.styles.css
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.csproj.CopyComplete
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/obj/Debug/net7.0/CallAutomationOpenAI.genruntimeconfig.cache
+/Users/ayushmansrivastava/Documents/CaseFlood/Dev/CallAutomationOpenAI/obj/Debug/net7.0/ref/CallAutomationOpenAI.dll
